@@ -1,80 +1,91 @@
-# Vinayak Jatti
+<div align="center" font="mono" >
 
-**Full-Stack Developer (MERN) | Backend-Focused Engineer**
+# 💫 About Me
 
-I am a full-stack developer with a strong focus on backend engineering, system design, and scalable web applications.  
-My primary expertise lies in building secure, maintainable APIs, authentication systems, and data-driven applications using modern JavaScript frameworks and SQL/NoSQL databases.
+Hi, I’m **Vinayak Jatti**  
+**Full-Stack Developer (MERN) | Backend-Oriented Engineer**
 
-I am actively developing production-grade projects that emphasize clean architecture, performance, and real-world problem solving.
+Building scalable web applications with a strong focus on backend architecture, authentication systems, and clean API design. I prioritize maintainability, performance, and real-world problem solving in every project.
+
+</div>
+ 
+
+## 🌐 Professional Presence :
+
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit%20Portfolio-%230077B5?style=for-the-badge&logo=vercel&logoColor=white)](https://vinayakj-044-portfolio.vercel.app/)
+
+Access my full portfolio to view projects, technical insights, and professional highlights.[Best view presence on large-screen]
+Best 
+---
+
+<p align="left">
+  <a href="https://instagram.com/vinayak__419">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vinayak-jatti/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## Professional Summary
-
-- Backend-focused MERN stack developer with hands-on experience in REST APIs and authentication systems  
-- Strong understanding of database design, schema modeling, and API lifecycle  
-- Experience deploying and maintaining applications on modern cloud platforms  
-- Actively working on large-scale, resume-grade projects with production practices  
-
----
-
-## Technical Skills
+## 💻 Tech Stack
 
 ### Languages
-- C  
-- Java  
-- JavaScript  
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Frontend
-- HTML5, CSS3  
-- React, React Router  
-- Redux  
-- Vite  
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### Backend
-- Node.js  
-- Express.js  
-- REST API Design  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Databases
-- MySQL  
-- MongoDB  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Tools & Platforms
-- Firebase  
-- Vercel  
-- Netlify  
-- Render  
-- Chart.js  
-- Figma  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Performance
+ 
+<p align="left">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vinayak-jatti&theme=dark&hide_border=false" />
+</p>
+ 
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinayak-jatti&theme=dark&hide_border=false)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=vinayak-jatti&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-jatti&layout=compact&theme=dark)
+## ✍️ Developer Insight
+
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
-## Achievements
+## 🔝 Contribution Overview
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vinayak-jatti&theme=radical&no-frame=false&margin-w=6)
-
----
-
-## Professional Presence
-
-- **LinkedIn:** https://www.linkedin.com/in/vinayak-jatti/  
-- **Instagram:** https://instagram.com/vinayak__419  
+<p align="left">
+  <img src="https://github-contributor-stats.vercel.app/api?username=vinayak-jatti&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-## Development Philosophy
-
-> “Build systems that scale, code that lasts, and solutions that solve real problems.”
-
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=vinayak-jatti&icon=0&color=0)
+ 
